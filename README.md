@@ -1,7 +1,3 @@
-Certainly, here's a detailed project description that you can use for your GitHub repository:
-
----
-
 # Reddit Data Analysis Project: Ukraine War
 
 ## Overview
