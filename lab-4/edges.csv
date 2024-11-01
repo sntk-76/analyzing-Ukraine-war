@@ -1,0 +1,23 @@
+Source;Target;Label
+1;2;Lejla – Antonela
+1;3;Lejla – Sulejman
+1;4;Lejla – Maja
+1;5;Lejla – Lejla S.
+1;11;Lejla – Asmira
+1;12;Lejla – Amira 
+1;15;Lejla – Ena
+2;3;Antonela – Sulejman
+2;4;Antonela – Maja
+3;4;Sulejman – Maja
+5;6;Lejla S. - Amina
+5;7;Lejla S – Ilma
+3;8;Sulejman – Nenad
+4;9;Maja – Selma
+4;10;Maja – Naida
+9;10;Naida – Selma
+3;9;Sulejman – Selma
+11;12;Asmira – Amira
+6;7;Amina – Ilma
+11;13;Asmira – Azra
+12;13;Amira – Azra
+11;14;Asmira – Sneza
